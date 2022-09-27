@@ -18,7 +18,7 @@ while True:
                 indice = indice + chave_codificacao
                 if (indice >= len(alfabeto)):
                     indice = indice - len(alfabeto)
-                    resultado_criptografia = resultado_criptografia + alfabeto[indice]
+                resultado_criptografia = resultado_criptografia + alfabeto[indice]
 
         elif opcao == 2:
             palavra = input("Digite uma palavra para Descriptografar: \n")
