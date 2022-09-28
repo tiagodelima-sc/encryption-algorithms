@@ -5,15 +5,23 @@
 
 ##  Getting Starded 🖖🏻
 
-[Download Python](https://www.python.org/downloads/") 
+[Download Python](https://www.python.org/downloads/) 
 
 
 ## How to run file ?
-Open the terminal and use the command 
+**Cifra de Cesar**
  ```sh
 git clone https://github.com/tiagodelima-sc/encryption-algorithms.git
 cd encryption-algorithms
 cd Cifra_de_Cesar
 python algoritmo_cesar.py
+```
+
+**Cifra de Substituição**
+ ```sh
+git clone https://github.com/tiagodelima-sc/encryption-algorithms.git
+cd encryption-algorithms
+cd Cifra_de_Substituicao
+python algoritmo_substituicao.py
 ```
 </div>
